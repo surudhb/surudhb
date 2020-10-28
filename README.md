@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi how are ya? 👋
+
+[![Surudh's github stats](https://github-readme-stats.vercel.app/api?username=surudhb)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=surudhb)
 
 <!--
 **surudhb/surudhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
