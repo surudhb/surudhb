@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him
 
 
-[![Surudh's github stats](https://github-readme-stats.vercel.app/api?username=surudhb)](https://github.com/anuraghazra/github-readme-stats)
+[![Surudh's github stats](https://github-readme-stats.vercel.app/api?username=surudhb&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=surudhb)
 
