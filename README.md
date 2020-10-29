@@ -2,7 +2,7 @@
 
 - 😎 I am a Full-Stack Developer with a passion for bringing designs and prototypes to life.
 - 🌱 I’m currently spending time learning the depths of Javascript on Frontend Masters
-- 🖥 Make your own website using this [starter](https://www.gatsbyjs.com/starters/surudhb/gatsby-personal-site-template)
+- 🖥 Make your own website using my [starter](https://www.gatsbyjs.com/starters/surudhb/gatsby-personal-site-template)
 - 📝 Check out my [portfolio](https://surudhb.github.io)
 - 📜 Download my [resumé](https://surudhb.github.io/surudh_bhutani_resume.pdf)
 - 📫 Shoot me an [email](mailto:surudhb@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/surudh-bhutani) :)
