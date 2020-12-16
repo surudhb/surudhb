@@ -9,9 +9,9 @@
 - 😄 Pronouns: he/him
 
 
-[![Surudh's github stats](https://github-readme-stats.vercel.app/api?username=surudhb&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Surudh's github stats](https://github-readme-stats.vercel.app/api?username=surudhb&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=surudhb)
+![](https://komarev.com/ghpvc/?username=surudhb&color=blueviolet&style=flat-square&label=Visits)
 
 <!--
 **surudhb/surudhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
