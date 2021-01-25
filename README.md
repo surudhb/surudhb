@@ -1,7 +1,8 @@
 ### Hi how are ya? 👋
 
 - 😎 I am a Full-Stack Developer with a passion for bringing designs and prototypes to life.
-- 🌱 I’m currently spending time going through [App Academy](https://www.appacademy.io/)'s Full-Stack [program](https://open.appacademy.io/)
+- 🌱 I am currently a SWE @ Hypotenuse :D
+<!-- spending time going through [App Academy](https://www.appacademy.io/)'s Full-Stack [program](https://open.appacademy.io/) -->
 - 🖥 Make your own website using my [starter](https://www.gatsbyjs.com/starters/surudhb/gatsby-personal-site-template)
 - 📝 Check out my [portfolio](https://surudhb.github.io)
 - 📜 Download my [resumé](https://surudhb.github.io/surudh_bhutani_resume.pdf)
