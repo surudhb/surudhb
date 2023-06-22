@@ -1,14 +1,11 @@
 ### Hi how are ya? 👋
 
-- 😎 I am a Software Developer (full, stack, iOS and a little Web3) with a passion for bringing designs and prototypes to life.
+- 😎 I am a Software Developer (full, stack, iOS and a little Web3) with a passion for bringing prototypes to life.
 - 🌱 I am currently a SWE @ Hypotenuse :D
 - 🖥 Make your own website using my [starter](https://www.gatsbyjs.com/starters/surudhb/gatsby-personal-site-template)
 - 📝 Check out my [portfolio](https://surudhb.github.io)
 - 📜 Download my [resumé](https://surudhb.github.io/surudh_bhutani_resume.pdf)
 - 📫 Shoot me an [email](mailto:surudhb@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/surudh-bhutani) :)
-
-
-[![Surudh's github stats](https://github-readme-stats.vercel.app/api?username=surudhb&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=surudhb&color=blueviolet&style=flat-square&label=Visits)
 
