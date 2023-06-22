@@ -7,8 +7,6 @@
 - 📜 Download my [resumé](https://surudhb.github.io/surudh_bhutani_resume.pdf)
 - 📫 Shoot me an [email](mailto:surudhb@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/surudh-bhutani) :)
 
-![](https://komarev.com/ghpvc/?username=surudhb&color=blueviolet&style=flat-square&label=Visits)
-
 <!--
 **surudhb/surudhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
