@@ -1,7 +1,6 @@
 ### Hi how are ya? 👋
 
 - 😎 I am a Software Developer (full, stack, iOS and a little Web3) with a passion for bringing prototypes to life.
-- 🌱 I am currently a SWE @ Hypotenuse :D
 - 🖥 Make your own website using my [starter](https://www.gatsbyjs.com/starters/surudhb/gatsby-personal-site-template)
 - 📝 Check out my [portfolio](https://surudhb.github.io)
 - 📜 Download my [resumé](https://surudhb.github.io/surudh_bhutani_resume.pdf)
