@@ -8,7 +8,7 @@
 
 ### Currently 
 Wrapping up a sabbatical and on the lookout for new opportunities. Over the last year, I stepped back from a 4-year sprint of scaling early-stage startups to:
-- 💒 attend lots of weddings
+- 💒 attend lots of weddings/family gatherings
 - 🧑‍💻 begin turning some micro-SaaS projects into side hustles
 - 📈 dive deep into trading and financial systems
 - 🐶 foster a puppy for the very first time
