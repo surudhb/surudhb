@@ -1,6 +1,6 @@
 # Hi, I'm Surudh 👋
 
-**I'm a Technical Program Manager (and formerly a Software Engineer - BSE, UWaterloo)**
+### I'm a Technical Program Manager (and formerly a Software Engineer - BSE, UWaterloo)
 
 - I have 7+ years shipping code and 3+ years directing global programs.
 - I thrive in the "messy middle." My specialty is stepping into ambiguity and introducing the predictability needed to drive real business value.
