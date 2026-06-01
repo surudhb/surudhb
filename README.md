@@ -1,10 +1,10 @@
 # Hi, I'm Surudh 👋
 
-### I'm a Technical Program Manager (and formerly a Software Engineer - BSE, UWaterloo)
+### I'm a Technical Program Manager - Actively Seeking New Opportunities!
 
-- I have 7+ years shipping code and 3+ years directing global programs.
-- I thrive in the "messy middle." My specialty is stepping into ambiguity and introducing the predictability needed to drive real business value.
-- The bulk of my experience is in enterprise SaaS across the fintech, healthtech, and e-commerce sectors.
+- I have 7+ years shipping code as a full-stack engineer and 3+ years being a technical program lead.
+- I enjoy working at the intersection of business and engineering. I am as comfortable being a technical system architect as much as I am running meetings, working cross-functionally or eliminating org-wide operational bottlenecks.
+- The bulk of my experience is in enterprise SaaS across fintech, e-commerce and gaming
 
 ### Currently 
 Wrapping up a sabbatical and on the lookout for new opportunities. Over the last year, I stepped back from a 4-year sprint of scaling early-stage startups to:
