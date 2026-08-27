@@ -1,10 +1,11 @@
 # Hi, I'm Surudh 👋
 
-### I'm a Technical Program Manager - Actively Seeking New Opportunities!
+### I'm a Software Engineer (customer-facing and TPM experience) - Actively Seeking New Opportunities!
 
-- 7+ years being a full-stack engineer and 3+ years being a technical program leader person.
+- 6+ years being a full-stack engineer and 2+ years being a technical program leader person.
 - Bloody good at making my coworkers' lives easier. Eliminating bottlenecks, increasing visibility and predictability, repeatable systems, technical discussions and stuff.
 - SaaS-heavy but always looking to expand. Being thrown in deep waters is part of the fun. So far I’m familiar with fintech, e-commerce and gaming.
+- Tool-agnostic. Frontend, backend, buzzwords.
 
 ### Currently 
 Looking for new opportunities! Over the last year, I stepped back from the 4-year sprint and a rollercoaster of a career to:
