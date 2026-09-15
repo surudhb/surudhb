@@ -10,7 +10,7 @@
 ### Currently 
 Looking for new opportunities! Over the last year, I stepped back from the marathon and a rollercoaster of a career to:
 - 🧑‍💻 freelance - because life is kinda boring without work and more importantly food
-- 🤖 went model-hopping looking for the <s>best LLM to tell me what to do</s> solve my problems. Tokenmaxxing is stupid. Be efficient.
+- 🤖 went model-hopping looking for the best LLM to <s>tell me what to do</s> solve my problems. Tokenmaxxing is stupid. Be efficient.
 - 💒 attend a ton of weddings/family gatherings & resolve family property disputes.
 - 🐶 explore being a (Shep-sky) pet-parent.
 - 🏍️ ride my MT-03 and start a moto-vlog. still figuring out how to look cool doing it.
