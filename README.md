@@ -13,7 +13,7 @@
 - Comfortable and experienced working across NA and European timezones
 - University of Waterloo B.S. Software Engineering Class of 2018
 
-### 🤝 Let's Connect
+### Let's Connect
 If you are looking for someone for a generalist software person, let's get in touch!
 - **[Portfolio](https://surudhb.github.io), [LinkedIn](https://linkedin.com/in/surudh-bhutani), [E-mail](mailto:surudhb@gmail.com)**
 
