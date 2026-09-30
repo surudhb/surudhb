@@ -17,13 +17,6 @@
 If you are looking for someone for a generalist software person, let's get in touch!
 - **[Portfolio](https://surudhb.github.io), [LinkedIn](https://linkedin.com/in/surudh-bhutani), [E-mail](mailto:surudhb@gmail.com)**
 
-### Over the last year
-- 🧑‍💻 freelance - because life is kinda boring without work and more importantly food
-- 🤖 went model-hopping looking for the best LLM to <s>tell me what to do</s> solve my problems. Tokenmaxxing is stupid. Be efficient.
-- 💒 attend a ton of weddings/family gatherings & resolve family property disputes.
-- 🐶 explore being a (Shep-sky) pet-parent.
-- 🏍️ ride my MT-03 and start a moto-vlog. still figuring out how to look cool doing it.
-
   ### Stack
   - Anything `Typescript`-based seconded by `Python`-based
   - Mixed levels of experience with AWS, GCP, Docker and other IaaS tools
