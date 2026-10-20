@@ -2,7 +2,7 @@
 
 ### A Software Engineer - Seeking New Opportunities!
 
-- 6+ of full-stack experience and 1 year of technical program leader person experience in a founding role at my previous company.
+- 6+ of full-stack experience and 2.5+ years of technical program leader person experience in a founding role at my previous company.
 - Love tinkering, building, focusing on the user experience. Good at making my coworkers' lives easier. Product-minded.
 - Can move fast and break things AND diligently ship at a slower pace focusing on a bulletproof release plan and concrete audit trail. Prefer operating somewhere in the middle.  
 - Built and shipped web-apps, trading platforms, luxury e-commerce sites, data ingestion pipelines and more. Always looking to expand. Industry-wise, most familiar with with fintech, e-commerce and gaming.
