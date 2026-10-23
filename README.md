@@ -1,6 +1,6 @@
 # Hi, I'm Surudh 👋
 
-### A Software Engineer - Seeking New Opportunities!
+### Technical Program Manager // Software Engineer - Seeking New Opportunities!
 
 - 6+ of full-stack experience and 2.5+ years of technical program leader person experience in a founding role at my previous company.
 - Love tinkering, building, focusing on the user experience. Good at making my coworkers' lives easier. Product-minded.
