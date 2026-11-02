@@ -9,7 +9,7 @@
 
 ### Logistics
 - Currently seeking new opportunities! Preferably remote or hybrid.
-- Based in the Greater Calgary Area (Mountain Time)
+- Based in the Greater Calgary Area
 - Comfortable and experienced working across NA and European timezones
 - University of Waterloo B.S. Software Engineering Class of 2018
 
